@@ -268,6 +268,7 @@ const handlePlantsClick = (e) => {
         </div>
         {!showCart? (
         <div className="product-grid">
+            
 
 
         </div>
